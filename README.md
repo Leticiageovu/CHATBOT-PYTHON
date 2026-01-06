@@ -29,21 +29,37 @@ Este projeto foi criado com o objetivo de:
 ## 🗂️ Estrutura do Projeto
 
 Chatbot-python/
+
 │
+
 ├── chatbot/
+
 │ ├── init.py
+
 │ ├── bot.py
+
 │ └── utils.py
+
 │
+
 ├── intents.json
+
 ├── logs/
+
 │ └── conversas.txt
+
 │
+
 ├── tests/
+
 │ └── test_chatbot.py
+
 │
+
 ├── main.py
+
 ├── requirements.txt
+
 └── README.md
 
 ---
