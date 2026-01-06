@@ -82,6 +82,10 @@ pip install -r requirements.txt
 ```
 ---
 
+<img width="1366" height="728" alt="Chatbot-python" src="https://github.com/user-attachments/assets/1bbc056c-fd08-4892-92fb-aea88e023fd4" />
+
+---
+
 3️⃣ Executar o chatbot
 
 ```
