@@ -1,0 +1,10 @@
+[2026-01-06 13:10:52] Você: Bom dia
+[2026-01-06 13:10:52] BotLet: Oi! Em que posso ser útil?
+[2026-01-06 13:11:14] Você: gostaria de um suporte
+[2026-01-06 13:11:14] BotLet: Estou aqui para te auxiliar 😊
+[2026-01-06 13:11:35] Você: Qual o horário de atendimento?
+[2026-01-06 13:11:35] BotLet: Nosso horário de atendimento é das 9h às 18h, de segunda a sexta.
+[2026-01-06 13:11:49] Você: Obrigada pela ajuda
+[2026-01-06 13:11:49] BotLet: Agradeço o seu contato 😊
+[2026-01-06 13:12:01] Você: Até mais
+[2026-01-06 13:12:01] BotLet: Até logo!

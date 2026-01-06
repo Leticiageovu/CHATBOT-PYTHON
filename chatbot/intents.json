@@ -1,0 +1,72 @@
+{
+  "saudacao": {
+    "patterns": [
+      "oi",
+      "olá",
+      "bom dia",
+      "boa tarde",
+      "boa noite",
+      "preciso de ajuda",
+      "pode me ajudar",
+      "gostaria de um suporte",
+      "preciso de suporte",
+      "suporte"
+    ],
+    "responses": [
+      "Olá! Como posso ajudar?",
+      "Oi! Em que posso ser útil?",
+      "Estou aqui para te auxiliar 😊",
+      "Olá! Estou aqui para ajudar."
+    ]
+  },
+
+  "horario": {
+    "patterns": [
+      "horário",
+      "horario",
+      "funcionamento",
+      "horário de atendimento",
+      "horario de atendimento",
+      "quando vocês abrem",
+      "quando vocês fecham",
+      "atendimento"
+    ],
+    "responses": [
+      "Atendemos de segunda a sexta, das 9h às 18h.",
+      "Nosso horário de atendimento é das 9h às 18h, de segunda a sexta."
+    ]
+  },
+
+  "agradecimento": {
+    "patterns": [
+      "obrigado",
+      "obrigada",
+      "valeu",
+      "muito obrigado",
+      "muito obrigada",
+      "me ajudou muito",
+      "isso ajudou bastante",
+      "agradeço a ajuda",
+      "agradecida"
+    ],
+    "responses": [
+      "Agradeço o seu contato 😊",
+      "Fico feliz em ajudar!",
+      "Sempre que precisar, estou aqui!"
+    ]
+  },
+
+  "despedida": {
+    "patterns": [
+      "tchau",
+      "sair",
+      "até logo",
+      "encerrar",
+      "até mais"
+    ],
+    "responses": [
+      "Até logo!",
+      "Foi um prazer ajudar! 😊"
+    ]
+  }
+}
